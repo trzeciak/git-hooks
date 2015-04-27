@@ -2,3 +2,7 @@
  2:	 DATE-2015-04-27_TIME-22-40-46.txt		dt-pre-commit-script.sh 
  3:	 DATE-2015-04-27_TIME-22-41-30.txt		dt-pre-commit-script.sh 
  4:	 DATE-2015-04-27_TIME-22-49-02.txt		pre-commit 
+ 5:	 DATE-2015-04-27_TIME-23-04-04.txt		dt-pre-commit-script.sh 
+ 6:	 DATE-2015-04-27_TIME-23-04-20.txt		dt-pre-commit-script.sh 
+ 7:	 DATE-2015-04-27_TIME-23-06-14.txt		pre-commit 
+ 8:	 DATE-2015-04-27_TIME-23-14-43.txt		dt-pre-commit-script.sh 
